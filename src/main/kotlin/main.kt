@@ -1,6 +1,6 @@
 
 fun main(){
-    //Variable declarations
+    //Value declarations
     val myInt = 42000
     val myByte = 120
     val myShort = 32767
@@ -10,12 +10,11 @@ fun main(){
     val myChar = 'p'
     val myBoolean = false
 
-    //whole numbers
+    //print
     println("Byte: $myByte")
     println("Short: $myShort")
     println("Int: $myInt")
     println("Long: $myLong")
-    //everything else
     println("Float: $myFloat")
     println("Double: $myDouble")
     println("Boolean: $myBoolean")
